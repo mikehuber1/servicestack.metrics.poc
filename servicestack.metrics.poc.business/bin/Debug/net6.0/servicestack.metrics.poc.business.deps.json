@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "servicestack.metrics.poc.business/1.0.0": {
+        "runtime": {
+          "servicestack.metrics.poc.business.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "servicestack.metrics.poc.business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

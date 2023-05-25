@@ -1,0 +1,12 @@
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business\bin\Debug\net6.0\servicestack.metrics.poc.business.deps.json
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business\bin\Debug\net6.0\servicestack.metrics.poc.business.dll
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business\bin\Debug\net6.0\servicestack.metrics.poc.business.pdb
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business\obj\Debug\net6.0\servicestack.metrics.poc.business.csproj.AssemblyReference.cache
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business\obj\Debug\net6.0\servicestack.metrics.poc.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business\obj\Debug\net6.0\servicestack.metrics.poc.business.AssemblyInfoInputs.cache
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business\obj\Debug\net6.0\servicestack.metrics.poc.business.AssemblyInfo.cs
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business\obj\Debug\net6.0\servicestack.metrics.poc.business.csproj.CoreCompileInputs.cache
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business\obj\Debug\net6.0\servicestack.metrics.poc.business.dll
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business\obj\Debug\net6.0\refint\servicestack.metrics.poc.business.dll
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business\obj\Debug\net6.0\servicestack.metrics.poc.business.pdb
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business\obj\Debug\net6.0\ref\servicestack.metrics.poc.business.dll

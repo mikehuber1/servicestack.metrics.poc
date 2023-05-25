@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "vHzVQEmJZd50RpWoNI+c66SiISTKvECAgmb6N8PUPro+4h9+2YKHsKSRNpcTuytrH0YVPx/vDiohMCxBoyzG/g==",
+  "success": true,
+  "projectFilePath": "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc.business.interfaces\\servicestack.metrics.poc.business.interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.extensions.http\\6.0.0\\microsoft.extensions.http.6.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\servicestack\\6.8.0\\servicestack.6.8.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\servicestack.client\\6.8.0\\servicestack.client.6.8.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\servicestack.common\\6.8.0\\servicestack.common.6.8.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\servicestack.interfaces\\6.8.0\\servicestack.interfaces.6.8.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\servicestack.text\\6.8.0\\servicestack.text.6.8.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.exanic.local/nuget/exanic'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

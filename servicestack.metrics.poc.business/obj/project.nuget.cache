@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "A7cbpHrQ5rTfXinOmp1cZhjuhQXyxHgsbFa/iwh9324CdKBgDvpuEBdzqMhewhiX4z49jJqIg2+u9M9zxkg1Qg==",
+  "success": true,
+  "projectFilePath": "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc.business\\servicestack.metrics.poc.business.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.exanic.local/nuget/exanic'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

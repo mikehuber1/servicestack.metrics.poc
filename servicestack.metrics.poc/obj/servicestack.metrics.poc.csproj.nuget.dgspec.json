@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc\\servicestack.metrics.poc.csproj": {}
+  },
+  "projects": {
+    "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc.business.interfaces\\servicestack.metrics.poc.business.interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc.business.interfaces\\servicestack.metrics.poc.business.interfaces.csproj",
+        "projectName": "servicestack.metrics.poc.business.interfaces",
+        "projectPath": "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc.business.interfaces\\servicestack.metrics.poc.business.interfaces.csproj",
+        "packagesPath": "C:\\Users\\mike.huber\\.nuget\\packages\\",
+        "outputPath": "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc.business.interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mike.huber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "http://nuget.exanic.local/nuget/exanic": {},
+          "https://nuget.exanic.local/nuget/nuget-public/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc.business\\servicestack.metrics.poc.business.csproj": {
+                "projectPath": "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc.business\\servicestack.metrics.poc.business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ServiceStack": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc.business\\servicestack.metrics.poc.business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc.business\\servicestack.metrics.poc.business.csproj",
+        "projectName": "servicestack.metrics.poc.business",
+        "projectPath": "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc.business\\servicestack.metrics.poc.business.csproj",
+        "packagesPath": "C:\\Users\\mike.huber\\.nuget\\packages\\",
+        "outputPath": "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc.business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mike.huber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "http://nuget.exanic.local/nuget/exanic": {},
+          "https://nuget.exanic.local/nuget/nuget-public/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc\\servicestack.metrics.poc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc\\servicestack.metrics.poc.csproj",
+        "projectName": "servicestack.metrics.poc",
+        "projectPath": "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc\\servicestack.metrics.poc.csproj",
+        "packagesPath": "C:\\Users\\mike.huber\\.nuget\\packages\\",
+        "outputPath": "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mike.huber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "http://nuget.exanic.local/nuget/exanic": {},
+          "https://nuget.exanic.local/nuget/nuget-public/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc.business.interfaces\\servicestack.metrics.poc.business.interfaces.csproj": {
+                "projectPath": "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc.business.interfaces\\servicestack.metrics.poc.business.interfaces.csproj"
+              },
+              "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc.business\\servicestack.metrics.poc.business.csproj": {
+                "projectPath": "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc.business\\servicestack.metrics.poc.business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ConfigurationSubstitutor": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.0.0-dev-02012, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "ServiceStack": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

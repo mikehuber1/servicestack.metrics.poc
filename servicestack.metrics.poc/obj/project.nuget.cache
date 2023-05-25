@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "dgSpecHash": "tTfACHxMARWnx9M7ZEUZTTnP8T5iP5xaI++OZEe/hWZ2L8l/mO63TKstS0drwpvgIzI6zZVUEbaoX4dKlGSceg==",
+  "success": true,
+  "projectFilePath": "C:\\Projekte\\servicestack.metrics.poc\\servicestack.metrics.poc\\servicestack.metrics.poc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mike.huber\\.nuget\\packages\\configurationsubstitutor\\1.5.1\\configurationsubstitutor.1.5.1.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\microsoft.extensions.configuration.3.1.6.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0\\microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.extensions.dependencymodel\\7.0.0\\microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\7.0.0\\microsoft.extensions.hosting.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.extensions.http\\6.0.0\\microsoft.extensions.http.6.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\serilog\\3.0.0-dev-02012\\serilog.3.0.0-dev-02012.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\serilog.aspnetcore\\7.0.0\\serilog.aspnetcore.7.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\serilog.extensions.hosting\\7.0.0\\serilog.extensions.hosting.7.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\serilog.extensions.logging\\7.0.0\\serilog.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\serilog.formatting.compact\\1.1.0\\serilog.formatting.compact.1.1.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\serilog.settings.configuration\\7.0.0\\serilog.settings.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\serilog.sinks.console\\4.1.0\\serilog.sinks.console.4.1.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\serilog.sinks.debug\\2.0.0\\serilog.sinks.debug.2.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\servicestack\\6.8.0\\servicestack.6.8.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\servicestack.client\\6.8.0\\servicestack.client.6.8.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\servicestack.common\\6.8.0\\servicestack.common.6.8.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\servicestack.interfaces\\6.8.0\\servicestack.interfaces.6.8.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\servicestack.text\\6.8.0\\servicestack.text.6.8.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\mike.huber\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.exanic.local/nuget/exanic'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

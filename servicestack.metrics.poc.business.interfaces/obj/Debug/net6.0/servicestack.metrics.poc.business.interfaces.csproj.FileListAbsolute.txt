@@ -1,0 +1,15 @@
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business.interfaces\bin\Debug\net6.0\servicestack.metrics.poc.business.interfaces.deps.json
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business.interfaces\bin\Debug\net6.0\servicestack.metrics.poc.business.interfaces.dll
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business.interfaces\bin\Debug\net6.0\servicestack.metrics.poc.business.interfaces.pdb
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business.interfaces\bin\Debug\net6.0\servicestack.metrics.poc.business.dll
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business.interfaces\bin\Debug\net6.0\servicestack.metrics.poc.business.pdb
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business.interfaces\obj\Debug\net6.0\servicestack.metrics.poc.business.interfaces.csproj.AssemblyReference.cache
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business.interfaces\obj\Debug\net6.0\servicestack.metrics.poc.business.interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business.interfaces\obj\Debug\net6.0\servicestack.metrics.poc.business.interfaces.AssemblyInfoInputs.cache
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business.interfaces\obj\Debug\net6.0\servicestack.metrics.poc.business.interfaces.AssemblyInfo.cs
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business.interfaces\obj\Debug\net6.0\servicestack.metrics.poc.business.interfaces.csproj.CoreCompileInputs.cache
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business.interfaces\obj\Debug\net6.0\servicestack.metrics.poc.business.interfaces.csproj.CopyComplete
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business.interfaces\obj\Debug\net6.0\servicestack.metrics.poc.business.interfaces.dll
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business.interfaces\obj\Debug\net6.0\refint\servicestack.metrics.poc.business.interfaces.dll
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business.interfaces\obj\Debug\net6.0\servicestack.metrics.poc.business.interfaces.pdb
+C:\Projekte\servicestack.metrics.poc\servicestack.metrics.poc.business.interfaces\obj\Debug\net6.0\ref\servicestack.metrics.poc.business.interfaces.dll
